@@ -1,0 +1,15 @@
+.Cartitem-img{
+    width:200px;
+}
+
+.Cartitem{
+    border-bottom: 2px solid rebeccapurple;
+    color:sandybrown;
+}
+
+.Cartitem-title{
+   margin-left: 10px; 
+}
+h1{
+    color:springgreen;
+}
